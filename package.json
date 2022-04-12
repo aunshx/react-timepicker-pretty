@@ -1,0 +1,32 @@
+{
+  "name": "react-timepicker-pretty",
+  "version": "1.0.0",
+  "description": "A timepicker for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "npm start --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aunshx/react-timepicker-pretty.git"
+  },
+  "keywords": [
+    "React",
+    "react",
+    "timepicker",
+    "time",
+    "pretty",
+    "beautiful",
+    "easy"
+  ],
+  "author": "aunsh.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aunshx/react-timepicker-pretty/issues"
+  },
+  "homepage": "https://github.com/aunshx/react-timepicker-pretty#readme",
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
